@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fector101" alt="fector101" /></a> </p>
 
-- 🔭 I’m currently working on Fast and secure way to send files from your PC to your phoneLaner" [Laner](https://github.com/Fector101/Laner/)
+- 🔭 I’m currently working on Fast and secure way to send files from your PC to your phone via LAN [Laner](https://github.com/Fector101/Laner/)
 
 - 🌱 I’m currently learning **Typescript**
 
