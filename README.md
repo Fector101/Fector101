@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <h3 align="center">A passionate FullStack developer from Earth</h3>
 
-- 🔭 I’m currently working on Fast and secure way to send files from your PC to your phone via LAN [Laner](https://github.com/Fector101/Laner/)
+- 🔭 I’m currently working on Fast and secure way to send files from your PC to your phone wirelessly [Laner](https://github.com/Fector101/Laner/)
 
 - 🌱 I’m currently learning **Typescript** and **kotlin**
 
