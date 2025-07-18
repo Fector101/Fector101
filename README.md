@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on Fast and secure way to send files from your PC to your phone via LAN [Laner](https://github.com/Fector101/Laner/)
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **Typescript** and **kotlin**
 
 - 💬 Ask me about **React**
 
